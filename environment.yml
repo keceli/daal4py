@@ -1,0 +1,13 @@
+name: daal4py-env
+
+channels:
+  - intel
+dependencies:
+  - numpy
+  - matplotlib
+  - jupyter
+  - nb_conda
+  - ipykernel
+  - scikit-learn
+  - daal4py 
+
