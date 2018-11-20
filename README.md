@@ -1,5 +1,6 @@
 # daal4py - A Convenient Python API to the Intel® Data Analytics Acceleration Library (Intel® DAAL)
 [![Build Status](https://travis-ci.com/IntelPython/daal4py.svg?branch=master)](https://travis-ci.com/IntelPython/daal4py)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keceli/daal4py/master?filepath=examples%2Fdaal4py_data_science.ipynb)
 
 A simplified API to Intel® DAAL that allows for fast usage of the framework suited for Data Scientists or Machine Learning users.  Built to help provide an abstraction to Intel® DAAL for either direct usage or integration into one's own framework.  
 
